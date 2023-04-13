@@ -1,6 +1,6 @@
 # Python Zero to Hero
 
-## 🔥 Introduction
+# 🔥 Introduction
 
 > Python is one of the most widely used programming languages in the world. It has gained a lot of popularity over the years due to its simplicity, readability, and ease of use. Python's syntax is clear and concise, making it easy to learn and write code quickly. This feature makes it an ideal language for beginners and experienced programmers alike.
 
@@ -70,7 +70,7 @@ Recursive Functions | Advanced 👉🏻 https://python-course.eu/advanced-python
 
 ---
 
-## Python Intermediate
+# Python Intermediate
 
 ### Python IDEs
 
@@ -203,7 +203,9 @@ Here is an introductory video to Pandas:
 
 ### Projects (Intermediate)
 
-# Python Advanced
+---
+
+# ⚙️ Python Advanced
 
 ### Magic Methods
 
