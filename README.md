@@ -70,7 +70,7 @@ Recursive Functions | Advanced 👉🏻 https://python-course.eu/advanced-python
 
 ---
 
-# Python Intermediate
+# 💥 Python Intermediate
 
 ### Python IDEs
 
