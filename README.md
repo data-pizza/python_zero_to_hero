@@ -98,9 +98,9 @@ Welcome to Spyder’s Documentation — Spyder 5 documentation 👉🏻 https://
 
 Here are a couple of introductory videos:
 
-👉🏻 https://www.youtube.com/watch?v=eXinDi55iOk](https://www.youtube.com/watch?v=eXinDi55iOk
+👉🏻 [https://www.youtube.com/watch?v=eXinDi55iOk](https://www.youtube.com/watch?v=eXinDi55iOk)
 
-👉🏻 https://www.youtube.com/watch?v=7mQgJzionaU](https://www.youtube.com/watch?v=7mQgJzionaU
+👉🏻 [https://www.youtube.com/watch?v=7mQgJzionaU](https://www.youtube.com/watch?v=7mQgJzionaU)
 
 Another couple of interesting options are:
 
@@ -142,7 +142,7 @@ Lambda Functions & Map
 
 - Numpy
     
-https://www.youtube.com/watch?v=QUT1VHiLmmI](https://www.youtube.com/watch?v=QUT1VHiLmmI
+[https://www.youtube.com/watch?v=QUT1VHiLmmI](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
 ### Databases in Python
 
@@ -261,7 +261,7 @@ Here are a few resources to help you get started:
 
 This video might be very useful:
 
-👉🏻 https://www.youtube.com/watch?v=AZnGRKFUU0c](https://www.youtube.com/watch?v=AZnGRKFUU0c)
+👉🏻 [https://www.youtube.com/watch?v=AZnGRKFUU0c](https://www.youtube.com/watch?v=AZnGRKFUU0c)
 
 This video series can help you take a further leap!
 
